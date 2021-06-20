@@ -487,8 +487,8 @@ footer .footer-box img {
   font-size: 1.8rem;
   line-height: 40px;
   border-radius: 20px;
-  border: 3px solid #ffd900;
-  color: #ffd900;
+  border: 3px solid #fdcf00;
+  color: #fdcf00;
   background-color: #FFF;
   text-align: center;
   -webkit-transition: .3s;
@@ -497,7 +497,7 @@ footer .footer-box img {
 
 .contact-form .button-area .submit-button:hover {
   color: #FFF;
-  background-color: #ffd900;
+  background-color: #fdcf00;
 }
 
 .contact-form .button-area .clear-button {
