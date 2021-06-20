@@ -35,6 +35,10 @@ p {
   font-size: 1.4rem;
 }
 
+input[type="submit"] {
+  -webkit-appearance: button;
+}
+
 header {
   height: 60px;
   width: 100%;
